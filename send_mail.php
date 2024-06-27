@@ -50,7 +50,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <p>$message</p>
                     </div>
                     <div style='padding: 10px 20px; font-size: 17px; color: #777777; border-top: 1px solid #dddddd;'>
-                        This message was sent from the contact form on onglobe.mosaique.link website.
+                        This message was sent from the contact form on onglobe.tech website.
 
 .
                     </div>
