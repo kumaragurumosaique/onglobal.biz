@@ -10962,6 +10962,9 @@ textarea.form-control-lg {
 	.ms-xxl-5 {
 		margin-left: 3rem !important;
 	}
+	.logo-color{
+		color: black;
+	}
 
 	.ms-xxl-auto {
 		margin-left: auto !important;
